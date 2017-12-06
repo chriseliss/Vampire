@@ -23,3 +23,5 @@ Cara Run bot tanpa pc atau di Android :
 - Selesai
 
 #DKZSquadBot
+
+BIG THANKS FOR TCRSQUAD
