@@ -35,7 +35,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" - Ard Squad bot -
+helpMessage =""" - √ลмקเяэ ՏҨԱᗋᗠ -
 General command :
 Me  =  Cek akun sendiri
 My mid  =  Cek akun Mid
@@ -44,7 +44,7 @@ Bot?  =  Cek akun Bot
 Ginfo  =  Group info
 Id Group = Melihat id grup
 Group pict  =  Melihat pict grup
-Speedbot  =  Cek kecepatan bot
+Speed  =  Cek kecepatan bot
 Up  =  Fungsi spam chat
 Tagall  =  Mention semua user
 Cek  =  Membuat set point
@@ -117,10 +117,10 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"Ard",
-    "cName2":"Ard 1",
-    "cName3":"Ard 2",
-    "cName4":"Ard 3",
+    "cName":"Vampire",
+    "cName2":"V1",
+    "cName3":"V2",
+    "cName4":"V3",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
